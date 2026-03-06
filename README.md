@@ -1,5 +1,5 @@
 # HIUdata
-Harmful Internet Use (HIU) - pre-processed survey data
+Harmful Internet Use (HIU) - survey data
 
 Polish data focused on measuring the harmful Internet use (HIU) phenomenon using a novel peer-assessment approach. 
 M - men		
